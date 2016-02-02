@@ -1,0 +1,13 @@
+result_protobuf: File not found.  Creating a new file.
+------ CSV to Protobuf -------------
+Time taken in ms is 63
+Speed of Deserialization is  0.09347181008902077Bps
+------ ProtoBuf to CSV -------------
+Time taken in ms is 4
+Speed of Deserialization is  0.005221932114882507Bps
+------ CSV to JSON -------------
+Time taken in ms is 158
+Speed of Deserialization is  0.2344213649851632Bps
+------JSON to CSV -------------
+Time taken in ms is 18
+Speed of Deserialization is  0.006495849873691808Bps
